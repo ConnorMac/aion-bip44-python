@@ -732,7 +732,7 @@ class PublicKey(PublicKeyBase):
         Returns:
             bytes: Base58Check encoded string
         """
-        return encode_hex(self.keccak[12:])
+        return encode_hex(self.keccak[-32:])
 
     def verify(self, message, signature, do_hash=True):
         """ Verifies that message was appropriately signed.
