@@ -1,4 +1,4 @@
-Ethereum BIP44 Python
+AION BIP44 Python
 ================================
 
 *Code adapted from two1 library for bitcoin by 21 Inc. (https://github.com/21dotco/two1-python/tree/master/two1)
