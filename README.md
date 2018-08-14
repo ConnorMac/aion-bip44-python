@@ -1,3 +1,5 @@
+DO NOT USE. THIS IS INCORRECT AT THIS MOMENT IN TIME.
+
 AION BIP44 Python
 ================================
 
